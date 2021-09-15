@@ -1,0 +1,8 @@
+src/Bootstrapper/OrderBin.Bootstrapper/bin
+src/Bootstrapper/OrderBin.Bootstrapper/obj
+src/Shared/OrderBin.Abstraction/bin
+src/Shared/OrderBin.Abstraction/obj
+src/Shared/OrderBin.Infrastructure/bin
+src/Shared/OrderBin.Infrastructure/obj
+*.dll
+.idea
