@@ -6,3 +6,8 @@ src/Shared/OrderBin.Infrastructure/bin
 src/Shared/OrderBin.Infrastructure/obj
 *.dll
 .idea
+.vs
+src/Modules/Products/OrderBin.Modules.Products.Api/obj
+src/Modules/Products/OrderBin.Modules.Products.Api/bin
+src/Modules/Products/OrderBin.Modules.Products.Core/obj
+src/Modules/Products/OrderBin.Modules.Products.Core/bin
