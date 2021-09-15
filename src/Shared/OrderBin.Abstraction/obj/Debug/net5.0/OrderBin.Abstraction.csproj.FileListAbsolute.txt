@@ -9,3 +9,4 @@ D:\Projekty\OrderBin\src\Shared\OrderBin.Abstraction\obj\Debug\net5.0\OrderBin.A
 D:\Projekty\OrderBin\src\Shared\OrderBin.Abstraction\obj\Debug\net5.0\OrderBin.Abstraction.dll
 D:\Projekty\OrderBin\src\Shared\OrderBin.Abstraction\obj\Debug\net5.0\ref\OrderBin.Abstraction.dll
 D:\Projekty\OrderBin\src\Shared\OrderBin.Abstraction\obj\Debug\net5.0\OrderBin.Abstraction.pdb
+D:\Projekty\OrderBin\src\Shared\OrderBin.Abstraction\obj\Debug\net5.0\OrderBin.Abstraction.csproj.AssemblyReference.cache

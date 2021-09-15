@@ -22,7 +22,6 @@ D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\bin\Debug\net5.0\Ord
 D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\bin\Debug\net5.0\OrderBin.Infrastructure.pdb
 D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\bin\Debug\net5.0\OrderBin.Abstraction.pdb
 D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\obj\Debug\net5.0\staticwebassets\OrderBin.Bootstrapper.StaticWebAssets.Manifest.cache
-D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\obj\Debug\net5.0\staticwebassets\OrderBin.Bootstrapper.StaticWebAssets.xml
 D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\obj\Debug\net5.0\scopedcss\bundle\OrderBin.Bootstrapper.styles.css
 D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\obj\Debug\net5.0\OrderBin.Bootstrapper.TagHelpers.input.cache
 D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\obj\Debug\net5.0\OrderBin.Bootstrapper.TagHelpers.output.cache
@@ -42,3 +41,4 @@ D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\obj\Debug\net5.0\Ord
 D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\obj\Debug\net5.0\ref\OrderBin.Bootstrapper.dll
 D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\obj\Debug\net5.0\OrderBin.Bootstrapper.pdb
 D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\obj\Debug\net5.0\OrderBin.Bootstrapper.genruntimeconfig.cache
+D:\Projekty\OrderBin\src\Bootstrapper\OrderBin.Bootstrapper\bin\Debug\net5.0\OrderBin.Bootstrapper.StaticWebAssets.xml
