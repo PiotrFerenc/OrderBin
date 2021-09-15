@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Modules\Products\OrderBin.Modules.Products.Api\OrderBin.Modules.Products.Api.csproj" />
     <ProjectReference Include="..\..\Shared\OrderBin.Infrastructure\OrderBin.Infrastructure.csproj" />
   </ItemGroup>
 
